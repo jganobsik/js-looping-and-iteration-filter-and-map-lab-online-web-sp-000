@@ -23,5 +23,3 @@ function exactMatch(drivers, revenue) {
     return matches;
   });
 }
-
-}}
